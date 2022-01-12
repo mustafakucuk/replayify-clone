@@ -1,5 +1,9 @@
 # replay
 
+#### don't forget to update .env file your spotify app infos.
+
+https://www.youtube.com/watch?v=ODCrzdT4KJ8
+
 ## Project setup
 ```
 npm install
